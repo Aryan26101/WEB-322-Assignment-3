@@ -5,9 +5,9 @@
 * 
 *  Name: Aryan Rakeshbhai Rathod Student ID:129796215 Date: 17-02-2023
 *
-*  Cyclic Web App URL:
+*  Cyclic Web App URL: https://jolly-moth-onesies.cyclic.app/
 *
-*  GitHub Repository URL: 
+*  GitHub Repository URL: https://github.com/Aryan26101/WEB-322-Assignment-3
 *
 ********************************************************************************/ 
 var HTTP_PORT = process.env.PORT || 8080;
